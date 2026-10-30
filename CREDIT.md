@@ -4,7 +4,7 @@
 **Orbit Board** is developed and maintained by **Fahim Takrim**.
 
 - Original GitHub Repository: https://github.com/fahitakrim/Orbit-Board
-- Developer: Fahim Takrim (https://github.com/fahitakrim)
+- Developer: Fahim Takrim
 - License: Apache License 2.0
 
 This copy is stored here **only for archival / personal backup purposes** by DmZcoder.

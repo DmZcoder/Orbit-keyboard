@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Android%207.0%2B%20(API%2024--35)-black?style=for-the-badge&logo=google)](https://developer.android.com)
 [![Privacy](https://img.shields.io/badge/Privacy-100%25%20Offline-00A86B?style=for-the-badge&logo=shield)](https://github.com/fahitakrim/Orbit-Board)
 [![Architecture](https://img.shields.io/badge/Architecture-ARM64%20%7C%20Universal-darkred?style=for-the-badge&logo=arm)](https://github.com/fahitakrim/Orbit-Board/releases)
-[![Author](https://img.shields.io/badge/Developer-Fahim%20Takrim-E5252A?style=for-the-badge&logo=github)](https://github.com/fahitakrim)
+![Developer](https://img.shields.io/badge/Developer-Fahim%20Takrim-E5252A?style=for-the-badge)
 
 **Orbit Board** is a modern, high-performance, privacy-first Android virtual keyboard crafted with an authentic **Nothing OS & Bauhaus-inspired design language**. Designed specifically for enthusiasts who value minimalism, tactile beauty, and absolute privacy, Orbit Board combines the signature **Matte Orbit Palette**, dot-matrix typography, dynamic per-key accent bubbles, and an advanced **Native Bengali Typing Suite** (Avro Phonetic, Probhat, and Jatiyo).
 
@@ -15,7 +15,7 @@ Zero internet permissions. Zero cloud logging. Zero tracking. Just pure, elevate
 
 
 <p align="center">
-  <img src="assets/orbit-keyboard-screenshot.jpg" alt="Orbit Board Keyboard - Nothing OS Aesthetic" width="680"/>
+  <img src="assets/orbit-keyboard-logo.png" alt="Orbit Board Keyboard - Nothing OS Aesthetic" width="680"/>
 </p>
 
 <p align="center"><i>Matte Orbit Palette • Carmine Red • Warm Ochre • Cobalt Slate • Chalk White</i></p>
@@ -131,7 +131,6 @@ When reporting a bug, please include:
 ## 👨‍💻 Developer & Author
 
 - **Lead Developer & Designer:** **Fahim Takrim**
-- **GitHub:** [@fahitakrim](https://github.com/fahitakrim)
 - **X (Twitter):** [@TakrimFahim](https://x.com/TakrimFahim)
 - **Facebook:** [Fahim Takrim](https://www.facebook.com/profile.php?id=61592810150809)
 - **Email:** `itz.takrim@gmail.com`
