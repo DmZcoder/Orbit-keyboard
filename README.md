@@ -13,6 +13,14 @@ Zero internet permissions. Zero cloud logging. Zero tracking. Just pure, elevate
 
 ---
 
+
+<p align="center">
+  <img src="assets/orbit-keyboard-screenshot.jpg" alt="Orbit Board Keyboard - Nothing OS Aesthetic" width="680"/>
+</p>
+
+<p align="center"><i>Matte Orbit Palette • Carmine Red • Warm Ochre • Cobalt Slate • Chalk White</i></p>
+
+---
 ## ⚡ Quick Download
 
 Download the latest signed release APK:
